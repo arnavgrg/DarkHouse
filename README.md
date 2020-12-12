@@ -1,5 +1,7 @@
 # Dark Room
 
+<img src='Spotlight.png' width=600 height=300>
+
 This our team project for CS174A taken during Fall 2020 with Professor Law.
 
 The objective of this game is to find objects by moving and looking around a dark room where the character has the flash light to illuminate the area that the character is looking at.
